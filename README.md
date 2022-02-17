@@ -9,6 +9,4 @@ Specifically, we aim to provide answers for the 3 business questions below:
 2 - Do the hotels from reputable chains have higher positivity review score? (Segmentation taken from STR chain scales dataset)
 3 - Is there any identified seasonal trend in the positivity score?
 
-This notebook is developed for Python 3.7+, and expects a standard Jupyter Hub or Jupyter notebook environment. Moreover, we also provide a Powerpoint presentation with 5 slides highlighting our key findings.
-
-This is a group project prepared and delivered in 2 steps (project files are splited accordingly).
+This notebook is developed for Python 3.7+, and expects a standard Jupyter Hub or Jupyter notebook environment. Moreover, we also provide a Powerpoint presentation with 5 slides highlighting our key findings. This is a group project prepared and delivered in 2 steps (project files are splited accordingly).
